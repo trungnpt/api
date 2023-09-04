@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BICAPI", "BICAPI\BICAPI.csproj", "{95B56221-B038-46F5-BC75-65E250662D44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BICAPI.Common", "BICAPI.Common\BICAPI.Common.csproj", "{28856394-AEA1-4D75-8E10-747F4BBCE054}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95B56221-B038-46F5-BC75-65E250662D44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95B56221-B038-46F5-BC75-65E250662D44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95B56221-B038-46F5-BC75-65E250662D44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95B56221-B038-46F5-BC75-65E250662D44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28856394-AEA1-4D75-8E10-747F4BBCE054}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28856394-AEA1-4D75-8E10-747F4BBCE054}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28856394-AEA1-4D75-8E10-747F4BBCE054}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28856394-AEA1-4D75-8E10-747F4BBCE054}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {812B0E48-FAF1-4543-9F54-A307CEAB7E12}
+	EndGlobalSection
+EndGlobal

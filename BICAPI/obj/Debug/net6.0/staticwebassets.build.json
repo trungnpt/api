@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "eu36qk5UiYgL0QIRxmbpBgagMUW/Y9hGlIcVmgAaQeg=",
+  "Source": "BICAPI",
+  "BasePath": "_content/BICAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

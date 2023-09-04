@@ -1,0 +1,12 @@
+D:\source\BICAPISolution\BICAPI.Common\bin\Debug\net6.0\BICAPI.Common.deps.json
+D:\source\BICAPISolution\BICAPI.Common\bin\Debug\net6.0\BICAPI.Common.dll
+D:\source\BICAPISolution\BICAPI.Common\bin\Debug\net6.0\BICAPI.Common.pdb
+D:\source\BICAPISolution\BICAPI.Common\obj\Debug\net6.0\BICAPI.Common.csproj.AssemblyReference.cache
+D:\source\BICAPISolution\BICAPI.Common\obj\Debug\net6.0\BICAPI.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\BICAPISolution\BICAPI.Common\obj\Debug\net6.0\BICAPI.Common.AssemblyInfoInputs.cache
+D:\source\BICAPISolution\BICAPI.Common\obj\Debug\net6.0\BICAPI.Common.AssemblyInfo.cs
+D:\source\BICAPISolution\BICAPI.Common\obj\Debug\net6.0\BICAPI.Common.csproj.CoreCompileInputs.cache
+D:\source\BICAPISolution\BICAPI.Common\obj\Debug\net6.0\BICAPI.Common.dll
+D:\source\BICAPISolution\BICAPI.Common\obj\Debug\net6.0\refint\BICAPI.Common.dll
+D:\source\BICAPISolution\BICAPI.Common\obj\Debug\net6.0\BICAPI.Common.pdb
+D:\source\BICAPISolution\BICAPI.Common\obj\Debug\net6.0\ref\BICAPI.Common.dll

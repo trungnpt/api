@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BICAPI</name>
+    </assembly>
+    <members>
+        <member name="M:BICAPI.Controllers.AppController.GetData(BICAPI.Common.HeaderData,BICAPI.Models.nguoi_dung)">
+            <summary>
+            Lấy danh sách người dùng
+            </summary>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BICAPI.Controllers.ErrorHandlerController.Error">
+            <summary>
+            All exception will come here
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:BICAPI.Models.nguoi_dung">
+            <summary>
+            Thông tin người dùng
+            </summary>
+        </member>
+        <member name="P:BICAPI.Models.nguoi_dung.ma">
+            <summary>
+            Mã người dùng
+            </summary>
+        </member>
+        <member name="P:BICAPI.Models.nguoi_dung.ten">
+            <summary>
+            Tên người dùng
+            </summary>
+        </member>
+    </members>
+</doc>
